@@ -1,1 +1,6 @@
 This directory contains sample Dart programs.
+
+Notable samples:
+- `embedder`: Examples of embedding the Dart VM in C++ applications.
+- `ffi`: Examples that show how to bind to native code using dart:ffi.
+- `estimate`: Command-line utility that composes an estimate (смета) from a JSON file with line items, discounts, and taxes.

@@ -1,0 +1,6 @@
+name: estimate_sample
+description: Command-line app for building a construction or event cost estimate from a JSON file.
+version: 0.1.0
+publish_to: none
+environment:
+  sdk: '>=3.0.0 <4.0.0'

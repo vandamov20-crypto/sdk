@@ -1,0 +1,34 @@
+{
+  "taxRate": 20,
+  "discount": 5,
+  "items": [
+    {
+      "description": "Подготовка площадки",
+      "quantity": 1,
+      "unitCost": 15000,
+      "category": "Работы",
+      "taxable": true
+    },
+    {
+      "description": "Фундамент бетонный",
+      "quantity": 12,
+      "unitCost": 3800,
+      "category": "Работы",
+      "taxable": true
+    },
+    {
+      "description": "Арматура A500",
+      "quantity": 250,
+      "unitCost": 72.5,
+      "category": "Материалы",
+      "taxable": true
+    },
+    {
+      "description": "Доставка материала",
+      "quantity": 3,
+      "unitCost": 4800,
+      "category": "Логистика",
+      "taxable": false
+    }
+  ]
+}
